@@ -10,7 +10,8 @@ The objective of this study is to perform a city-to-city comparison and find sim
 
 To solve the problem at hand, we will extract information from data. Neighbourhood information and their corresponding coordinates for both the cities will be extracted from their respective Wikipedia pages or the Geopy client (if necessary).
       
-__[London Wikipedia](https://en.wikipedia.org/wiki/List_of_London_boroughs)__ \\
+__[London Wikipedia](https://en.wikipedia.org/wiki/List_of_London_boroughs)__ 
+
 __[Paris Wikipedia](https://en.wikipedia.org/wiki/Arrondissements_of_Paris)__ 
 
 In addition, we will take advantage of Foursquare API location data to extract venue based information for each of the neighbourhoods.  We will use this data to find the top and unique venues in each of the neighbourhoods. We will then also perform a clustering analysis to cluster neighbourhoods in each city based on the similarities on the types of venues it has to offer. City-to-city comparison of the main neighbourhoods will further be performed to see for similarities or dissimilarities based on the venue data.
