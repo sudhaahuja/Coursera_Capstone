@@ -16,3 +16,5 @@ __[Paris Wikipedia](https://en.wikipedia.org/wiki/Arrondissements_of_Paris)__
 In addition, we will take advantage of Foursquare API location data to extract venue based information for each of the neighbourhoods.  We will use this data to find the top and unique venues in each of the neighbourhoods. This information will be used to perform a city-to-city comparison of the main neighbourhoods to look for similarities or dissimilarities based on the venue data.
 
 
+Full project report can be seen in the Wiki -
+https://github.com/sudhaahuja/Coursera_Capstone/wiki/Week2_Capstone_Report
